@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Currently working on a web-client blockchain based application<br>Looking to collaborate on any interesting subject <br>Cybersecurity student
+💻Currently working on a brute-force algorithm in C <br>Looking to collaborate on any interesting subject <br>Cybersecurity student
 
 
 # 💻 Tech Stack:
