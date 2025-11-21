@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Currently working on a brute-force algorithm in C <br>Looking to collaborate on any interesting subject <br>Cybersecurity student
+💻<br>Cybersecurity 
 
 
 # 💻 Tech Stack:
