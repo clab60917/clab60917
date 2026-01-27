@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻<br>Cybersecurity 
+<br>Cybersecurity engineer. Trust nothing. 
 
 
 # 💻 Tech Stack:
